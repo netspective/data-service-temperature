@@ -2,6 +2,10 @@
 
 Temperature library is intended to greatly simplify the use of Temperature device simulation with DDS. As such, Temperature library have functions that reduces by several times the line of code that need to be written for a creating Temperature Simulation DDS application. 
 
+# Prerequisite
+
+[Setting Up Logging Service](https://github.com/netspective/commons-logging-cpp/blob/master/README.md)
+
 # Compilation and Installation
 Clone the library from the github
 
@@ -36,7 +40,7 @@ SYNOPSIS
 
 DESCRIPTION
 
-	The publish function used to publish the Blood Pressure data in the DDS. 
+	The publish function used to publish the Temperature data in the DDS. 
 
 ARGUMENTS
 
